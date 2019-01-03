@@ -1,0 +1,31 @@
+	Django 2.1.4
+	Python 3
+	React
+	Bootstrap
+
+	git server
+
+	Tipo dashboard
+
+	TODO BIEN DOCUMENTADO DESDE EL INICIO
+		Dividido por apps
+
+
+
+	Menu
+	*Workflow
+	Ventana de inicio
+	Reportes
+	Notificaciones de verdad
+	Recursos humanos
+	Chat
+	Menu de administrador
+
+
+	calendario de actividades
+
+	Formatos
+		Cotizaciones
+
+	MaxDep
+		Cargar datos
